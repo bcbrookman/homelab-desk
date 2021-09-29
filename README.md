@@ -15,9 +15,9 @@ Typical ALEX-KARLBY desk builds use two ALEX drawer units as legs supporting the
 
 ## Measurements
 
-![](images/measurements-Front\ View.png)
+![](images/measurements-Front%20View.png)
 
-![](images/measurements-Side\ Views.png)
+![](images/measurements-Side%20Views.png)
 
 ## Instructions
 
@@ -55,6 +55,6 @@ Simply remove the four outermost bolts on the top of the rack and reinstall them
 
 Next, position the Alex drawer unit and network rack in the desk's final position anticipating where the countertop will sit. The goal will be to place the KARLBY countertop on top of the ALEX drawer unit and network rack without needing to move things around much after. You can position it however you'd like, or you can follow my measurements in the diagram below.
 
-![](images/measurements-Top\ View.png)
+![](images/measurements-Top%20View.png)
 
 Lastly, carefully place the Karlby countertop on top of the drawer unit and network rack. I recommend having another person help you with this step. If you need to adjust the position of the countertop afterwards, always *lift and place* it rather than trying to slide it. Since the anti-slip matting on the drawer unit is meant to prevent the countertop from sliding, attempting to slide things into place may cause the matting to move and/or bunch up.
