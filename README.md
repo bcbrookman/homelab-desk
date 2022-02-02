@@ -10,6 +10,7 @@ Typical ALEX-KARLBY desk builds use two ALEX drawer units as legs supporting the
 - [IKEA KARLBY countertop](https://www.ikea.com/us/en/p/karlby-countertop-walnut-veneer-50335208/)
 - [NavePoint 12U Network Rack](https://navepoint.com/navepoint-12u-600mm-depth-wallmount-networking-perforated-cabinet-pro-series/)
 - [2 inch adjustable furniture feet](https://www.amazon.com/dp/B092884B9G/ref=cm_sw_em_r_mt_dp_D365HPTV2TWYZDB7A4S8)
+- [2 inch cable grommets](#) (optional)
 - [IKEA STOPP anti-slip mat](https://www.ikea.com/us/en/p/stopp-anti-slip-underlay-80227877/) (optional)
 - [IKEA Stockayrd](https://www.ikea.com/us/en/p/stockaryd-wood-treatment-oil-indoor-use-20240462/) (recommended)
 
@@ -51,10 +52,26 @@ Simply remove the four outermost bolts on the top of the rack and reinstall them
 
 ![](images/IMG_1124.JPG)
 
-### 4. Position and place the pieces
+### 4. Kitty-proof the rack (optional)
+
+If you have a curious kitty (or kiddie) who thinks cables are toys, you may want to close up the back of the rack. Since the NavePoint rack is intended for wall mounting, it includes a back plate that nicely covers the entire back opening. Unfortunately, however, it also means that any cables exiting the rack will have to go through either the top or bottom cable-routing cut-outs. This is ideal for wall mounting the rack, but not great when it's sitting on the floor. My solution was to break out the drill saw and DIY some additional cable cut-outs in the back plate. 
+
+First, measure and mark the center of each hole you'll cut with a drill saw. I choose to make two holes with each hole 4 inches from the side, and 4 inches from the bottom. If you plan on putting the holes in different spots, just make sure it's not too close to the edges and test place the grommet before you start cutting. Measure twice, cut once as the saying goes.
+
+Next, put on some protective gloves and glasses, and carefully start drilling out the holes using a 2 inch drill saw. Hang the back plate off the edge of a table and hold it securely. Once the drill bit gets through the metal it will grab and spin the entire back plate with it. Apply even pressure straight down, and drill in brief pulses to allow the saw to cool off. It will take quite a while to saw through the metal so be patient. Avoid wiping the metal shavings off the surface as they're likely scratch the black finish. After cutting through the hole, I used some course grit sandpaper to deburr the edges, but if you have a small grinder or something better use that. Repeat for the other hole.
+
+![](images/IMG_1194.JPG)
+
+Finally, install the grommets in the new holes. If not already cut, carefully use a box-cutter to cut slits in the grommet. Feed your cables through the grommets, and use the included screws to secure the back plate to the rack. I also wrapped my cables in a cable management sleeve to keep things even more clean and safe.
+
+![](images/IMG_1858.JPG)
+
+
+### 5. Position and place the pieces
 
 Next, position the Alex drawer unit and network rack in the desk's final position anticipating where the countertop will sit. The goal will be to place the KARLBY countertop on top of the ALEX drawer unit and network rack without needing to move things around much after. You can position it however you'd like, or you can follow my measurements in the diagram below.
 
 ![](images/measurements-Top%20View.png)
 
 Lastly, carefully place the Karlby countertop on top of the drawer unit and network rack. I recommend having another person help you with this step. If you need to adjust the position of the countertop afterwards, always *lift and place* it rather than trying to slide it. Since the anti-slip matting on the drawer unit is meant to prevent the countertop from sliding, attempting to slide things into place may cause the matting to move and/or bunch up.
+
